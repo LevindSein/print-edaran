@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <title>Print Tagihan</title>
-        <link rel="stylesheet" href="style.css" media="all"/>
+        <link rel="stylesheet" href="edaran.css" media="all"/>
     </head>
     <body>
         <div>

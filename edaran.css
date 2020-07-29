@@ -16,21 +16,18 @@ body {
 .pemberitahuan {
   height: 15cm;
   width: 10cm;
-  background-color: powderblue;
   margin: 1px;
 }
 
 .pelunasan {
   height: 15cm;
   width: 10cm;
-  background-color: yellow;
   margin: 1px;
 }
 
 .pembayaran {
   height: 15cm;
   width: 28cm;
-  background-color: orange;
   margin: 1px;
 }
 
