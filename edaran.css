@@ -1,34 +1,40 @@
 @media print {
   @page {
     size: A3 landscape;
-    padding: 2cm;
+    padding: 10px;
+    margin-top: 1cm;
+    margin-bottom: 1.8cm;
     margin-left: 2cm;
     margin-right: 2cm;
   }
+  body {-webkit-print-color-adjust: exact;
+    background : url(watermark-koppas.png) !important;}
 }
 
 body {
   position: relative;
-  width: 40cm;
-  height: 28cm;
+  background : url(watermark-koppas.png) !important;
 }
 
 .pemberitahuan {
   height: 15cm;
   width: 10cm;
-  margin: 1px;
+  margin: 5px;
+  margin-bottom: 5px;
 }
 
 .pelunasan {
   height: 15cm;
   width: 10cm;
-  margin: 1px;
+  margin: 5px;
+  margin-bottom: 5px;
 }
 
 .pembayaran {
   height: 15cm;
   width: 28cm;
-  margin: 1px;
+  margin: 5px;
+  margin-bottom: 5px;
 }
 
 .row {
