@@ -140,6 +140,7 @@ body {
 }
 
 .t1 .t1-ttem {
+  border-top: none; border-right: none; border-bottom: none;
   border-color: #000000;
   color: #000000;
   font-size: 10px;
@@ -177,6 +178,16 @@ body {
 }
 
 .t1 .t1-3ijx {
+  border-left: none; border-bottom: none; border-top: none;
+  border-color: #000000;
+  color: #000000;
+  font-size: 10px;
+  text-align: right;
+  vertical-align: top
+}
+
+.t1 .t1-3ij9 {
+  border-left: none; border-bottom: none;
   border-color: #000000;
   color: #000000;
   font-size: 10px;
@@ -191,6 +202,17 @@ body {
   font-size: 10px;
   font-weight: bold;
   text-align: right;
+  vertical-align: top
+}
+
+.t1 .t1-3yo9 {
+  border-right: none;
+  background-color: #efefef;
+  border-color: #000000;
+  color: #000000;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
   vertical-align: top
 }
 
@@ -224,11 +246,14 @@ body {
 .t2 .t2-bbev{border-left: none; border-color:#000000;color:#000000;font-size:12px;font-weight:bold;text-align:center;vertical-align:middle}
 .t2 .t2-6re5{border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:left;vertical-align:top}
 .t2 .t2-6re9{border-top: none; border-right: none; border-bottom: none; border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:left;vertical-align:top}
-.t2 .t2-ttem{border-color:#000000;color:#000000;font-size:10px;text-align:left;vertical-align:top}
+.t2 .t2-ttem{border-top: none; border-right: none; border-bottom: none; border-color:#000000;color:#000000;font-size:10px;text-align:left;vertical-align:top}
 .t2 .t2-tte8{border:none; border-color:#000000;color:#000000;font-size:10px;text-align:left;vertical-align:top}
 .t2 .t2-tte9{border-top: none; border-right: none; border-bottom: none; border-color:#000000;color:#000000;font-size:10px;text-align:left;vertical-align:top}
-.t2 .t2-3ijx{border-color:#000000;color:#000000;font-size:10px;text-align:right;vertical-align:top}
+.t2 .t2-3ijx{border-left: none; border-bottom: none; border-top: none; border-color:#000000;color:#000000;font-size:10px;text-align:right;vertical-align:top}
+.t2 .t2-3ij9{border-left: none; border-bottom: none; border-color:#000000;color:#000000;font-size:10px;text-align:right;vertical-align:top}
 .t2 .t2-3yo2{background-color:#efefef;border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:right;
+  vertical-align:top}
+.t2 .t2-3yo9{border-right: none; background-color:#efefef;border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:center;
   vertical-align:top}
 .t2 .t2-nfau{border-color:#000000;color:#000000;font-size:10px;text-align:left;vertical-align:top}
 
@@ -247,13 +272,19 @@ body {
 .t3 .t3-6re5{border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:left;vertical-align:top}
 .t3 .t3-6re9{border-top:none; border-right: none; border-bottom: none; border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:left;vertical-align:top}
 .t3 .t3-ttem{border-color:#000000; border-color:#000000;font-size:10px;text-align:left;vertical-align:top}
+.t3 .t3-tte1{border-right:none; border-top: none; border-bottom: none; border-color:#000000; border-color:#000000;font-size:10px;text-align:left;vertical-align:top}
+.t3 .t3-tte2{border:none; border-color:#000000; border-color:#000000;font-size:10px;text-align:left;vertical-align:top}
 .t3 .t3-tte8{border-top:none; border-left:none; border-color:#000000;color:#000000;font-size:10px;text-align:left;vertical-align:top}
 .t3 .t3-tte9{border:none; border-color:#000000;color:#000000;font-size:10px;text-align:left;vertical-align:top}
 .t3 .t3-ewa4{border-color:#000000;color:#000000;font-size:10px;text-align:center;vertical-align:top}
 .t3 .t3-277t{background-color:#efefef;border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:center;
   vertical-align:middle}
-.t3 .t3-3ijx{border-color:#000000;color:#000000;font-size:10px;text-align:right;vertical-align:top}
+.t3 .t3-3ijx{border: none; border-color:#000000;color:#000000;font-size:10px;text-align:right;vertical-align:top}
+.t3 .t3-3ij1{border-left: none; border-top: none;  border-bottom: none; border-color:#000000;color:#000000;font-size:10px;text-align:right;vertical-align:top}
+.t3 .t3-3ij9{border-left: none; border-color:#000000;color:#000000;font-size:10px;text-align:right;vertical-align:top}
 .t3 .t3-3yo2{background-color:#efefef;border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:right;
+  vertical-align:top}
+.t3 .t3-3yo9{border-right: none; background-color:#efefef;border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:center;
   vertical-align:top}
 .t3 .t3-zzln{border-right: none; border-color:#000000;color:#000000;font-size:10px;font-weight:bold;text-align:left;vertical-align:middle}
 .t3 .t3-zhtw{border-left: none; border-color:#000000;color:#000000;font-size:10px;text-align:center;vertical-align:top}

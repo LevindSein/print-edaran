@@ -50,97 +50,102 @@
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t2-3yo2" colspan="2">JUMLAH</td>
-                      <td class="t2-3ijx"><span style="font-weight:bold">&nbsp;</span></td>
+                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
+                      <td class="t2-3ijx">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td class="t2-3yo9" colspan="2">JUMLAH</td>
+                      <td class="t2-3ij9"><span style="font-weight:bold">&nbsp;</span></td>
                     </tr>
                     <tr>
                       <td class="t2-nfau" colspan="3" rowspan="3">
@@ -197,97 +202,102 @@
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t1-3yo2" colspan="2">JUMLAH</td>
-                      <td class="t1-3ijx"><span style="font-weight:bold">&nbsp;</span></td>
+                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
+                      <td class="t1-3ijx">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td class="t1-3yo9" colspan="2">JUMLAH</td>
+                      <td class="t1-3ij9"><span style="font-weight:bold">&nbsp;</span></td>
                     </tr>
                     <tr>
                       <td class="t1-nfau" colspan="3">
@@ -357,7 +367,7 @@
                       <td class="t3-tte8" colspan="2">: &nbsp;</td>
                       <td class="t3-ng21" colspan="2">KEDUDUKAN METER</td>
                       <td class="t3-277t" rowspan="2">JUMLAH<br>PEMAKAIAN</td>
-                      <td class="t3-277t" colspan="2" rowspan="2">TOTAL<br>PEMAKAIAN</td>
+                      <td class="t3-277t" colspan="2" rowspan="2">TOTAL</td>
                     </tr>
                     <tr>
                       <td class="t3-ng21">BULAN</td>
@@ -367,170 +377,179 @@
                       <td class="t3-ng21">AKHIR</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-3yo2" colspan="6">JUMLAH YANG HARUS DIBAYAR</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
+                      <td class="t3-3ijx">&nbsp;</td>
+                      <td class="t3-3ijx">&nbsp;</td>
+                      <td class="t3-3ijx">&nbsp;</td>
+                      <td class="t3-3ijx">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td class="t3-3yo9" colspan="6">JUMLAH YANG HARUS DIBAYAR</td>
+                      <td class="t3-3ij9" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t3-zzln" colspan="6" rowspan="3"><b>PERHATIAN<br><br><span style="font-weight:normal">- Harap dibayar sebelum tanggal 15, keterlambatan akan dikenakan biaya keterlambatan dan sanksi pemutusan.</span><br><span style="font-weight:normal">  Apabila dalam waktu 2 bulan belum melunasi, kWh meter akan dibongkar</span><br><span style="font-weight:normal">- Pembayaran sudah termasuk PPn</span></td>
@@ -546,7 +565,7 @@
                 </table>
               </div>
           </div>
-          <div class="row" style="page-break-after:always">
+          <div class="row" style="page-break-after:always;">
               <div class="pemberitahuan">
                 <table class="t2" style="table-layout: fixed; width: 373px">
                   <colgroup>
@@ -588,97 +607,102 @@
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t2-ttem">&nbsp;</td>
-                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
                       <td class="t2-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t2-3yo2" colspan="2">JUMLAH</td>
-                      <td class="t2-3ijx"><span style="font-weight:bold">&nbsp;</span></td>
+                      <td class="t2-ttem">&nbsp;</td>
+                      <td class="t2-tte8">&nbsp;</td>
+                      <td class="t2-3ijx">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td class="t2-3yo9" colspan="2">JUMLAH</td>
+                      <td class="t2-3ij9"><span style="font-weight:bold">&nbsp;</span></td>
                     </tr>
                     <tr>
                       <td class="t2-nfau" colspan="3" rowspan="3">
@@ -735,97 +759,102 @@
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t1-ttem">&nbsp;</td>
-                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
                       <td class="t1-3ijx">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t1-3yo2" colspan="2">JUMLAH</td>
-                      <td class="t1-3ijx"><span style="font-weight:bold">&nbsp;</span></td>
+                      <td class="t1-ttem">&nbsp;</td>
+                      <td class="t1-tte9">&nbsp;</td>
+                      <td class="t1-3ijx">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td class="t1-3yo9" colspan="2">JUMLAH</td>
+                      <td class="t1-3ij9"><span style="font-weight:bold">&nbsp;</span></td>
                     </tr>
                     <tr>
                       <td class="t1-nfau" colspan="3">
@@ -895,7 +924,7 @@
                       <td class="t3-tte8" colspan="2">: &nbsp;</td>
                       <td class="t3-ng21" colspan="2">KEDUDUKAN METER</td>
                       <td class="t3-277t" rowspan="2">JUMLAH<br>PEMAKAIAN</td>
-                      <td class="t3-277t" colspan="2" rowspan="2">TOTAL<br>PEMAKAIAN</td>
+                      <td class="t3-277t" colspan="2" rowspan="2">TOTAL</td>
                     </tr>
                     <tr>
                       <td class="t3-ng21">BULAN</td>
@@ -905,170 +934,179 @@
                       <td class="t3-ng21">AKHIR</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-ttem">&nbsp;</td>
-                      <td class="t3-ttem">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
                       <td class="t3-3ijx">&nbsp;</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
-                      <td class="t3-3yo2" colspan="6">JUMLAH YANG HARUS DIBAYAR</td>
-                      <td class="t3-3ijx" colspan="2">&nbsp;</td>
+                      <td class="t3-tte1">&nbsp;</td>
+                      <td class="t3-tte2">&nbsp;</td>
+                      <td class="t3-3ijx">&nbsp;</td>
+                      <td class="t3-3ijx">&nbsp;</td>
+                      <td class="t3-3ijx">&nbsp;</td>
+                      <td class="t3-3ijx">&nbsp;</td>
+                      <td class="t3-3ij1" colspan="2">&nbsp;</td>
+                    </tr>
+                    <tr>
+                      <td class="t3-3yo9" colspan="6">JUMLAH YANG HARUS DIBAYAR</td>
+                      <td class="t3-3ij9" colspan="2">&nbsp;</td>
                     </tr>
                     <tr>
                       <td class="t3-zzln" colspan="6" rowspan="3"><b>PERHATIAN<br><br><span style="font-weight:normal">- Harap dibayar sebelum tanggal 15, keterlambatan akan dikenakan biaya keterlambatan dan sanksi pemutusan.</span><br><span style="font-weight:normal">  Apabila dalam waktu 2 bulan belum melunasi, kWh meter akan dibongkar</span><br><span style="font-weight:normal">- Pembayaran sudah termasuk PPn</span></td>
